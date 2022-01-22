@@ -1,0 +1,15 @@
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\TutorialEFGetStarted.exe
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\TutorialEFGetStarted.deps.json
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\TutorialEFGetStarted.runtimeconfig.json
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\TutorialEFGetStarted.dll
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\ref\TutorialEFGetStarted.dll
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\bin\Debug\net6.0\TutorialEFGetStarted.pdb
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.csproj.AssemblyReference.cache
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.AssemblyInfoInputs.cache
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.AssemblyInfo.cs
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.csproj.CoreCompileInputs.cache
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.dll
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\ref\TutorialEFGetStarted.dll
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.pdb
+D:\GIT\My Repository\TutorialEFGetStarted\TutorialEFGetStarted\TutorialEFGetStarted\obj\Debug\net6.0\TutorialEFGetStarted.genruntimeconfig.cache
